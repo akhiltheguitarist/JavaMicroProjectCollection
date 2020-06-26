@@ -1,0 +1,17 @@
+[{
+	"name": "Sam Sam",
+	"age": 35,
+	"sports": [
+		{
+			"sport": "cricket",
+			"role": "bowler"
+		},{ 
+			"sport" : "football",
+			"role": "goalkeeper"
+		},{
+			"sport": "basketball",
+			"role" : "guard"
+		}	
+	]
+	
+}]

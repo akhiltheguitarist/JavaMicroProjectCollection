@@ -1,0 +1,14 @@
+[
+    {
+        "operation": "remove",
+        "spec":    {
+          "*" : {
+          	"sports": {
+          		"*": {
+          			"sport": "" 
+          		}
+          	} 
+          }
+        }
+    }
+]
